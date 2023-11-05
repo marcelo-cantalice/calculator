@@ -1,0 +1,19 @@
+.mainDiv {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    gap: 20px;
+}
+
+.result {
+    /*chage de text and the color after calculation*/
+    font-size: 100px;
+    color: transparent;
+}
+
+input[type='text'] {
+    font-size: 50px;
+    text-align: center;
+}
